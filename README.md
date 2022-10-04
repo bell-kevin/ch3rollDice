@@ -1,0 +1,2 @@
+# ch3rollDice
+Write a program that simulates rolling two dice. Create 2 random numbers between 1 and 6, display each and display the total. Run the project twice and take a screenshot each time.  Ch 3 Dice Roll     NOTE: Remember the requirements for a header and a pause at the end of the program, discussed in the reading "Console Applications". These are required in every console application project.  Submission: Submit a single zipped folder containing all of the specified screenshots AND the root folder for the project.
