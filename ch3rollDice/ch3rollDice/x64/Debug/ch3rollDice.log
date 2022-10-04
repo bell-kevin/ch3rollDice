@@ -1,0 +1,3 @@
+﻿  ch3rollDice.cpp
+C:\Users\4800590195\source\repos\ch3rollDice\ch3rollDice\ch3rollDice.cpp(13,16): warning C4244: '=': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ch3rollDice.vcxproj -> C:\Users\4800590195\source\repos\ch3rollDice\x64\Debug\ch3rollDice.exe
